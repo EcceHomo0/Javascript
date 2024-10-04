@@ -1,0 +1,10 @@
+﻿#bar
+{
+	border: solid, 5px, purple;
+}
+
+.pbar
+{
+	border: solid, 1px, lightblue;
+	background-color:lightblue;
+}
